@@ -1,0 +1,3 @@
+.kaggle/kaggle.json
+csv-data/*.csv
+parquet-data/*.parquet
